@@ -1,2 +1,2 @@
 # onion
-Multi-layered data repository framework specifically design for caching purposes.
+Multi-layered data repository framework specifically designed for caching purposes.
